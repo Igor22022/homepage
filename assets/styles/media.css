@@ -1,0 +1,9 @@
+@media screen and (max-width: 1199px) {
+  #main-info > div {
+    width: 100% !important;
+    padding: 1em;
+  }
+  .name, .job, .contacts, .resume-title {
+    text-align: center;
+  }
+}
